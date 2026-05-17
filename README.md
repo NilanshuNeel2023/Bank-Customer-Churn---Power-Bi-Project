@@ -1,10 +1,11 @@
-## 🏦 Bank Customer Churn Analysis Dashboard | Power BI Project
+# 🏦 Bank Customer Churn Analysis Dashboard | Power BI Project
 
-# Project Overview
+## Project Overview
 
 This project is a comprehensive Bank Customer Churn Analysis Dashboard developed using Power BI to analyze customer behavior, retention trends, and churn patterns in the banking sector.
 
-# The dashboard provides actionable business insights that help identify:
+## The dashboard provides actionable business insights that help identify:
+
 . Customer churn behavior
 . Active vs inactive customers
 . Retention trends
@@ -12,7 +13,7 @@ This project is a comprehensive Bank Customer Churn Analysis Dashboard developed
 . Credit score impact on churn
 . Gender-wise and yearly customer analysis
 
-# This project demonstrates strong capabilities in:
+## This project demonstrates strong capabilities in:
 
 . Data Cleaning & Transformation
 . Data Modeling
@@ -35,14 +36,14 @@ This Power BI solution helps stakeholders monitor churn trends and make data-dri
 
 ## Tools & Technologies Used: 
 
-# 📊 Business Intelligence Tool
+## 📊 Business Intelligence Tool
 . Power BI Desktop
 
-# 📂 Data Processing & Modeling
+## 📂 Data Processing & Modeling
 . Power Query Editor
 . DAX (Data Analysis Expressions)
 
-# 📈 Visualization Techniques
+## 📈 Visualization Techniques
 . KPI Cards
 . Line Charts
 . Clustered Column Charts
@@ -57,7 +58,7 @@ This Power BI solution helps stakeholders monitor churn trends and make data-dri
 
 The Home Dashboard provides a high-level overview of customer churn and retention performance.
 
-# 🔹 KPIs Used
+## 🔹 KPIs Used
 The dashboard includes dynamic KPI cards to monitor:
 
 . Total Customers
@@ -66,7 +67,7 @@ The dashboard includes dynamic KPI cards to monitor:
 . Exit Customers
 . Inactive Members
 
-# 🔹 DAX Measures Created
+## 🔹 DAX Measures Created
 Key calculations used in the project:
 . Total Customer
 . Active Customers
@@ -80,7 +81,7 @@ Key calculations used in the project:
 . YoY Inactive Customer %
 . Previous Month Exit Customer
 
-# 🔹 Visualizations & Analysis
+## 🔹 Visualizations & Analysis
 
 📌 Yearly Total & Active Customer Analysis
 . Clustered Column Chart
@@ -102,28 +103,28 @@ Key calculations used in the project:
 . Pie Chart
 . Displays customer distribution across different geographic locations.
 
-🔹 Interactive Features
+## 🔹 Interactive Features
 
 . Dynamic slicers for filtering insights
 . Navigation buttons for page transitions
 . Interactive cross-filtering between visuals
 . User-friendly dashboard layout
 
-2️⃣ Churn % Analysis Page
+## 2️⃣ Churn % Analysis Page
 This page focuses specifically on customer churn percentage analysis.
 
-🔹 Key Insights
+## 🔹 Key Insights
 . Monthly churn percentage trends
 . Customer exit patterns over time
 . Churn comparison using pivot analysis
 . Retention monitoring
 
-🔹 Visuals Used
+## 🔹 Visuals Used
 . Pivot Tables
 . Slicers
 . KPI-based Analysis
 
-🔹 Business Value
+## 🔹 Business Value
 This page helps management identify:
 
 . High-risk customer periods
@@ -131,16 +132,16 @@ This page helps management identify:
 . Monthly churn fluctuations
 . Strategic improvement opportunities
 
-3️⃣ Detail Report Page
+## 3️⃣ Detail Report Page
 The Detail Report page provides a granular customer-level analysis.
 
-🔹 Features Included
+## 🔹 Features Included
 . Customer-level records
 . Filter-based detailed reporting
 . Interactive table visuals
 . Drill-down customer analysis
 
-🔹 Important Customer Attributes Used
+## 🔹 Important Customer Attributes Used
 . Customer ID
 . Age
 . Credit Score
@@ -151,7 +152,7 @@ The Detail Report page provides a granular customer-level analysis.
 . Exit Category
 . Active Category
 
-🔹 Business Use Case
+## 🔹 Business Use Case
 This detailed report enables stakeholders to:
 
 . Investigate individual customer behavior
@@ -183,21 +184,21 @@ Using this dashboard, businesses can:
 
 This project demonstrates practical expertise in:
 
-📌 Power BI Skills
+## 📌 Power BI Skills
 . Dashboard Development
 . Data Visualization
 . Interactive Reporting
 . Drill-through Analysis
 . Bookmark & Navigation Design
 
-📌 DAX Skills
+## 📌 DAX Skills
 . KPI Calculations
 . Time Intelligence Functions
 . Percentage Calculations
 . Dynamic Measures
 . Comparative Analysis
 
-📌 Analytical Skills
+## 📌 Analytical Skills
 . Customer Churn Analysis
 . Trend Analysis
 . Business Performance Monitoring
